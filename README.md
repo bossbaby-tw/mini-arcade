@@ -1,6 +1,6 @@
 # Mini Arcade
 
-Four quick browser games built with HTML, CSS, and JavaScript. No installation or build needed.
+Five quick browser games built with HTML, CSS, and JavaScript. No installation or build needed.
 
 | Game | Play online | Local file |
 | --- | --- | --- |
@@ -8,6 +8,7 @@ Four quick browser games built with HTML, CSS, and JavaScript. No installation o
 | Little Slide | [Play puzzle](https://little-slide-puzzle-1023.starryhorse7.chatgpt.site) | `little-slide/index.html` |
 | Moonlit Sudoku — Witching Hour | [Play Sudoku](https://moonlit-sudoku-halloween.starryhorse7.chatgpt.site) | `moonlit-sudoku/index.html` |
 | Anime Afterhours — Character Club | [Play character quiz](https://anime-afterhours-character-club.starryhorse7.chatgpt.site) | `anime-afterhours/index.html` |
+| Star Trail — Find Your Hero | [Play board game](https://star-trail-anime-adventure.starryhorse7.chatgpt.site) | `star-trail/index.html` |
 
 ## Play locally
 
@@ -65,6 +66,14 @@ Guess 47 characters from 12 universes, including Naruto, Sanrio, Demon Slayer, S
 
 Unlike the single-file games, this game loads its character data from JSON. Serve the repository with a static server, then visit `/anime-afterhours/`. For example: `python3 -m http.server 8000` and open `http://localhost:8000/anime-afterhours/`.
 
+## Star Trail — Find Your Hero
+
+A simple anime-themed self-discovery board game for kids, designed for ages 7+. Roll a three-sided star die, travel toward Star Academy, and answer eight everyday-choice questions. The final card reflects four fictional hero styles: Explorer, Heartkeeper, Dreamweaver, and Star Scholar. Ties produce a mixed hero card, and any question can be skipped.
+
+Optional feelings check-ins are not scored. This game is not an MBTI assessment, a validated personality test, a diagnosis, or mental-health screening. Results describe game choices, not fixed traits. Answers are kept only in the current session. A short grown-up guide is included in the game.
+
+Open `star-trail/index.html` in a browser to play locally. No installation or build step is required.
+
 ## Project structure
 
 ```text
@@ -72,6 +81,7 @@ pocket-kart/index.html     # Racing game
 little-slide/index.html    # Sliding puzzle
 moonlit-sudoku/index.html  # Halloween Sudoku
 anime-afterhours/           # Character quiz, data, and portrait assets
+star-trail/index.html       # Kids’ anime board game
 README.md                  # Play links and instructions
 ```
 
