@@ -1,6 +1,6 @@
 # Mini Arcade
 
-Five quick browser games built with HTML, CSS, and JavaScript. No installation or build needed.
+Six quick browser games built with HTML, CSS, and JavaScript. No installation or build needed.
 
 | Game | Play online | Local file |
 | --- | --- | --- |
@@ -9,6 +9,8 @@ Five quick browser games built with HTML, CSS, and JavaScript. No installation o
 | Moonlit Sudoku — Witching Hour | [Play Sudoku](https://moonlit-sudoku-halloween.starryhorse7.chatgpt.site) | `moonlit-sudoku/index.html` |
 | Anime Afterhours — Character Club | [Play character quiz](https://anime-afterhours-character-club.starryhorse7.chatgpt.site) | `anime-afterhours/index.html` |
 | Star Trail — Find Your Hero | [Play board game](https://star-trail-anime-adventure.starryhorse7.chatgpt.site) | `star-trail/index.html` |
+
+| Bangkok Rush — Neon Havoc | [Play traffic brawler](https://bangkok-rush-neon-havoc.starryhorse7.chatgpt.site) | `bangkok-rush/index.html` |
 
 ## Play locally
 
@@ -74,6 +76,19 @@ Optional feelings check-ins are not scored. This game is not an MBTI assessment,
 
 Open `star-trail/index.html` in a browser to play locally. No installation or build step is required.
 
+## Bangkok Rush — Neon Havoc
+
+An anime traffic brawler set against an original neon Bangkok illustration. Drive a battle tuk-tuk, dodge rogue taxis and buses, collect batteries, and survive 60 seconds to reach the riverside. Comic vehicle combat includes sonic shockwaves, sparks, and boost ramming. The road and district route are fictional.
+
+| Control | Action |
+| --- | --- |
+| Left / Right or A / D | Change lane |
+| Space | Sonic horn (45 energy) |
+| X | Boost and ram (25 energy; 5-second cooldown) |
+| P | Pause / resume |
+
+Touch controls are included. Sound starts off and can be enabled with the Sound button. You have four armor points. Batteries restore energy, and the best score is saved in your browser. Open `bangkok-rush/index.html` locally or serve it with any static server. Artwork provenance and the generation prompt are in `bangkok-rush/ART-CREDITS.md`.
+
 ## Project structure
 
 ```text
@@ -82,6 +97,7 @@ little-slide/index.html    # Sliding puzzle
 moonlit-sudoku/index.html  # Halloween Sudoku
 anime-afterhours/           # Character quiz, data, and portrait assets
 star-trail/index.html       # Kids’ anime board game
+bangkok-rush/               # Traffic brawler and original Bangkok art
 README.md                  # Play links and instructions
 ```
 
