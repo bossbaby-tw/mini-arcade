@@ -1,12 +1,13 @@
 # Mini Arcade
 
-Three quick browser games built with HTML, CSS, and JavaScript. No installation or build needed.
+Four quick browser games built with HTML, CSS, and JavaScript. No installation or build needed.
 
 | Game | Play online | Local file |
 | --- | --- | --- |
 | Pocket Kart — Sunset Circuit | [Play racer](https://pocket-kart-sunset-1023.starryhorse7.chatgpt.site) | `pocket-kart/index.html` |
 | Little Slide | [Play puzzle](https://little-slide-puzzle-1023.starryhorse7.chatgpt.site) | `little-slide/index.html` |
 | Moonlit Sudoku — Witching Hour | [Play Sudoku](https://moonlit-sudoku-halloween.starryhorse7.chatgpt.site) | `moonlit-sudoku/index.html` |
+| Anime Afterhours — Character Club | [Play character quiz](https://anime-afterhours-character-club.starryhorse7.chatgpt.site) | `anime-afterhours/index.html` |
 
 ## Play locally
 
@@ -52,13 +53,26 @@ Fill every row, column, and 3×3 box with the numbers 1–9 exactly once.
 
 Fixed numbers cannot be edited. The timer starts on the first edit. A new puzzle replaces the current puzzle after confirmation when play has started.
 
+## Anime Afterhours — Character Club
+
+Guess 47 characters from 12 universes, including Naruto, Sanrio, Demon Slayer, Studio Ghibli, Ouran Host Club, Saiki K., Attack on Titan, and Gintama.
+
+- Choose one or more universes and play up to ten distinct characters per round.
+- Portrait mode shows the artwork; Mystery mode starts blurred.
+- Use keys 1–4 or answer buttons to guess. H reveals a hint, and Enter advances after an answer.
+- Correct answers earn points; hints reduce base points and consecutive correct answers earn streak bonuses.
+- Browse the character library and artwork credits in the game. Best score is saved in your browser.
+
+Unlike the single-file games, this game loads its character data from JSON. Serve the repository with a static server, then visit `/anime-afterhours/`. For example: `python3 -m http.server 8000` and open `http://localhost:8000/anime-afterhours/`.
+
 ## Project structure
 
 ```text
 pocket-kart/index.html     # Racing game
 little-slide/index.html    # Sliding puzzle
 moonlit-sudoku/index.html  # Halloween Sudoku
+anime-afterhours/           # Character quiz, data, and portrait assets
 README.md                  # Play links and instructions
 ```
 
-Each game is self-contained. Pocket Kart and Moonlit Sudoku optionally load fonts from Google Fonts and fall back to system fonts.
+Each game includes its own gameplay assets. Pocket Kart, Moonlit Sudoku, and Anime Afterhours optionally load fonts from Google Fonts and fall back to system fonts. Anime Afterhours uses locally included portraits; its in-game credits link to AniList and official Sanrio character references.

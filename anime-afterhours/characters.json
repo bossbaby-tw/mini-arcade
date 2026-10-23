@@ -1,0 +1,373 @@
+[
+  {
+    "id": 17,
+    "name": "Naruto Uzumaki",
+    "actualName": "Naruto Uzumaki",
+    "series": "Naruto",
+    "image": "assets/17.png",
+    "source": "https://anilist.co/character/17"
+  },
+  {
+    "id": 13,
+    "name": "Sasuke Uchiha",
+    "actualName": "Sasuke Uchiha",
+    "series": "Naruto",
+    "image": "assets/13.png",
+    "source": "https://anilist.co/character/13"
+  },
+  {
+    "id": 85,
+    "name": "Kakashi Hatake",
+    "actualName": "Kakashi Hatake",
+    "series": "Naruto",
+    "image": "assets/85.png",
+    "source": "https://anilist.co/character/85"
+  },
+  {
+    "id": 145,
+    "name": "Sakura Haruno",
+    "actualName": "Sakura Haruno",
+    "series": "Naruto",
+    "image": "assets/145.png",
+    "source": "https://anilist.co/character/145"
+  },
+  {
+    "id": 14,
+    "name": "Itachi Uchiha",
+    "actualName": "Itachi Uchiha",
+    "series": "Naruto",
+    "image": "assets/14.png",
+    "source": "https://anilist.co/character/14"
+  },
+  {
+    "id": 127518,
+    "name": "Nezuko Kamado",
+    "actualName": "Nezuko Kamado",
+    "series": "Demon Slayer",
+    "image": "assets/127518.png",
+    "source": "https://anilist.co/character/127518"
+  },
+  {
+    "id": 129131,
+    "name": "Zenitsu Agatsuma",
+    "actualName": "Zenitsu Agatsuma",
+    "series": "Demon Slayer",
+    "image": "assets/129131.png",
+    "source": "https://anilist.co/character/129131"
+  },
+  {
+    "id": 129130,
+    "name": "Inosuke Hashibira",
+    "actualName": "Inosuke Hashibira",
+    "series": "Demon Slayer",
+    "image": "assets/129130.jpg",
+    "source": "https://anilist.co/character/129130"
+  },
+  {
+    "id": 384,
+    "name": "Chihiro Ogino",
+    "actualName": "Chihiro Ogino",
+    "series": "Studio Ghibli",
+    "image": "assets/384.png",
+    "source": "https://anilist.co/character/384"
+  },
+  {
+    "id": 385,
+    "name": "Haku",
+    "actualName": "Haku",
+    "series": "Studio Ghibli",
+    "image": "assets/385.png",
+    "source": "https://anilist.co/character/385"
+  },
+  {
+    "id": 507,
+    "name": "Howl",
+    "actualName": "Howl",
+    "series": "Studio Ghibli",
+    "image": "assets/507.jpg",
+    "source": "https://anilist.co/character/507"
+  },
+  {
+    "id": 269,
+    "name": "Totoro",
+    "actualName": "Totoro",
+    "series": "Studio Ghibli",
+    "image": "assets/269.jpg",
+    "source": "https://anilist.co/character/269"
+  },
+  {
+    "id": 6866,
+    "name": "Kiki",
+    "actualName": "Kiki",
+    "series": "Studio Ghibli",
+    "image": "assets/6866.png",
+    "source": "https://anilist.co/character/6866"
+  },
+  {
+    "id": 18,
+    "name": "Haruhi Fujioka",
+    "actualName": "Haruhi Fujioka",
+    "series": "Ouran Host Club",
+    "image": "assets/18.jpg",
+    "source": "https://anilist.co/character/18"
+  },
+  {
+    "id": 19,
+    "name": "Tamaki Suoh",
+    "actualName": "Tamaki Suou",
+    "series": "Ouran Host Club",
+    "image": "assets/19.png",
+    "source": "https://anilist.co/character/19"
+  },
+  {
+    "id": 20,
+    "name": "Mitsukuni Haninozuka",
+    "actualName": "Mitsukuni Haninozuka",
+    "series": "Ouran Host Club",
+    "image": "assets/20.png",
+    "source": "https://anilist.co/character/20"
+  },
+  {
+    "id": 90107,
+    "name": "Kusuo Saiki",
+    "actualName": "Kusuo Saiki",
+    "series": "Saiki K.",
+    "image": "assets/90107.png",
+    "source": "https://anilist.co/character/90107"
+  },
+  {
+    "id": 90108,
+    "name": "Riki Nendou",
+    "actualName": "Riki Nendou",
+    "series": "Saiki K.",
+    "image": "assets/90108.png",
+    "source": "https://anilist.co/character/90108"
+  },
+  {
+    "id": 90112,
+    "name": "Shun Kaidou",
+    "actualName": "Shun Kaidou",
+    "series": "Saiki K.",
+    "image": "assets/90112.png",
+    "source": "https://anilist.co/character/90112"
+  },
+  {
+    "id": 90109,
+    "name": "Kokomi Teruhashi",
+    "actualName": "Kokomi Teruhashi",
+    "series": "Saiki K.",
+    "image": "assets/90109.png",
+    "source": "https://anilist.co/character/90109"
+  },
+  {
+    "id": 40882,
+    "name": "Eren Yeager",
+    "actualName": "Eren Yeager",
+    "series": "Attack on Titan",
+    "image": "assets/40882.jpg",
+    "source": "https://anilist.co/character/40882"
+  },
+  {
+    "id": 40881,
+    "name": "Mikasa Ackerman",
+    "actualName": "Mikasa Ackerman",
+    "series": "Attack on Titan",
+    "image": "assets/40881.png",
+    "source": "https://anilist.co/character/40881"
+  },
+  {
+    "id": 45627,
+    "name": "Levi",
+    "actualName": "Levi",
+    "series": "Attack on Titan",
+    "image": "assets/45627.png",
+    "source": "https://anilist.co/character/45627"
+  },
+  {
+    "id": 46494,
+    "name": "Armin Arlert",
+    "actualName": "Armin Arlert",
+    "series": "Attack on Titan",
+    "image": "assets/46494.png",
+    "source": "https://anilist.co/character/46494"
+  },
+  {
+    "id": 672,
+    "name": "Gintoki Sakata",
+    "actualName": "Gintoki Sakata",
+    "series": "Gintama",
+    "image": "assets/672.png",
+    "source": "https://anilist.co/character/672"
+  },
+  {
+    "id": 674,
+    "name": "Kagura",
+    "actualName": "Kagura",
+    "series": "Gintama",
+    "image": "assets/674.png",
+    "source": "https://anilist.co/character/674"
+  },
+  {
+    "id": 673,
+    "name": "Shinpachi Shimura",
+    "actualName": "Shinpachi Shimura",
+    "series": "Gintama",
+    "image": "assets/673.jpg",
+    "source": "https://anilist.co/character/673"
+  },
+  {
+    "id": 40,
+    "name": "Monkey D. Luffy",
+    "actualName": "Luffy Monkey",
+    "series": "One Piece",
+    "image": "assets/40.png",
+    "source": "https://anilist.co/character/40"
+  },
+  {
+    "id": 62,
+    "name": "Roronoa Zoro",
+    "actualName": "Zoro Roronoa",
+    "series": "One Piece",
+    "image": "assets/62.png",
+    "source": "https://anilist.co/character/62"
+  },
+  {
+    "id": 723,
+    "name": "Nami",
+    "actualName": "Nami",
+    "series": "One Piece",
+    "image": "assets/723.png",
+    "source": "https://anilist.co/character/723"
+  },
+  {
+    "id": 127691,
+    "name": "Satoru Gojo",
+    "actualName": "Satoru Gojou",
+    "series": "Jujutsu Kaisen",
+    "image": "assets/127691.png",
+    "source": "https://anilist.co/character/127691"
+  },
+  {
+    "id": 126635,
+    "name": "Megumi Fushiguro",
+    "actualName": "Megumi Fushiguro",
+    "series": "Jujutsu Kaisen",
+    "image": "assets/126635.png",
+    "source": "https://anilist.co/character/126635"
+  },
+  {
+    "id": 71,
+    "name": "L Lawliet",
+    "actualName": "L Lawliet",
+    "series": "Death Note",
+    "image": "assets/71.png",
+    "source": "https://anilist.co/character/71"
+  },
+  {
+    "id": 80,
+    "name": "Light Yagami",
+    "actualName": "Light Yagami",
+    "series": "Death Note",
+    "image": "assets/80.png",
+    "source": "https://anilist.co/character/80"
+  },
+  {
+    "id": 138100,
+    "name": "Anya Forger",
+    "actualName": "Anya Forger",
+    "series": "Spy × Family",
+    "image": "assets/138100.png",
+    "source": "https://anilist.co/character/138100"
+  },
+  {
+    "id": 138101,
+    "name": "Loid Forger",
+    "actualName": "Loid Forger",
+    "series": "Spy × Family",
+    "image": "assets/138101.png",
+    "source": "https://anilist.co/character/138101"
+  },
+  {
+    "id": 138102,
+    "name": "Yor Forger",
+    "actualName": "Yor Forger",
+    "series": "Spy × Family",
+    "image": "assets/138102.png",
+    "source": "https://anilist.co/character/138102"
+  },
+  {
+    "id": "hellokitty",
+    "name": "Hello Kitty",
+    "series": "Sanrio",
+    "image": "assets/hellokitty.png",
+    "source": "https://www.sanrio.co.jp/characters/hellokitty/"
+  },
+  {
+    "id": "cinnamon",
+    "name": "Cinnamoroll",
+    "series": "Sanrio",
+    "image": "assets/cinnamon.png",
+    "source": "https://www.sanrio.co.jp/characters/cinnamon/"
+  },
+  {
+    "id": "mymelody",
+    "name": "My Melody",
+    "series": "Sanrio",
+    "image": "assets/mymelody.png",
+    "source": "https://www.sanrio.co.jp/characters/mymelody/"
+  },
+  {
+    "id": "kuromi",
+    "name": "Kuromi",
+    "series": "Sanrio",
+    "image": "assets/kuromi.png",
+    "source": "https://www.sanrio.co.jp/characters/kuromi/"
+  },
+  {
+    "id": "pompompurin",
+    "name": "Pompompurin",
+    "series": "Sanrio",
+    "image": "assets/pompompurin.png",
+    "source": "https://www.sanrio.co.jp/characters/pompompurin/"
+  },
+  {
+    "id": 126071,
+    "name": "Tanjiro Kamado",
+    "actualName": "Tanjirou Kamado",
+    "series": "Demon Slayer",
+    "image": "assets/126071.png",
+    "source": "https://anilist.co/character/126071"
+  },
+  {
+    "id": 23,
+    "name": "Kyoya Ootori",
+    "actualName": "Kyouya Ootori",
+    "series": "Ouran Host Club",
+    "image": "assets/23.png",
+    "source": "https://anilist.co/character/23"
+  },
+  {
+    "id": 2650,
+    "name": "Toshiro Hijikata",
+    "actualName": "Toushirou Hijikata",
+    "series": "Gintama",
+    "image": "assets/2650.png",
+    "source": "https://anilist.co/character/2650"
+  },
+  {
+    "id": 127212,
+    "name": "Yuji Itadori",
+    "actualName": "Yuuji Itadori",
+    "series": "Jujutsu Kaisen",
+    "image": "assets/127212.png",
+    "source": "https://anilist.co/character/127212"
+  },
+  {
+    "id": 8298,
+    "name": "No-Face",
+    "actualName": "Kaonashi",
+    "series": "Studio Ghibli",
+    "image": "assets/8298.png",
+    "source": "https://anilist.co/character/8298"
+  }
+]
